@@ -1,4 +1,4 @@
-(defun ent-p (e)
+(defun enamep (e)
   (= 'ENAME (type e))
 )
 
